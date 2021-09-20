@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Front Users (Reto Tecnico)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es un proyecto creado con ReactJs [FrontUsers](https://github.com/OJPalenzuela/Reto-Tecnico-FrontUsers).
 
 ## Available Scripts
 
